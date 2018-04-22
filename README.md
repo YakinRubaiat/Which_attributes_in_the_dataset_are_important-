@@ -18,23 +18,23 @@ First, take the diabetes dataset from my repository.
 
 It contain :
 
-# 1. Number of times pregnant
+1. Number of times pregnant
 
-# 2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 
-# 3. Diastolic blood pressure (mm Hg)
+3. Diastolic blood pressure (mm Hg)
 
-# 4. Triceps skin fold thickness (mm)
+4. Triceps skin fold thickness (mm)
 
-# 5. 2-Hour serum insulin (mu U/ml)
+5. 2-Hour serum insulin (mu U/ml)
 
-# 6. Body mass index (weight in kg/(height in m)^2)
+6. Body mass index (weight in kg/(height in m)^2)
 
-# 7. Diabetes pedigree function
+7. Diabetes pedigree function
 
-# 8. Age (years)
+8. Age (years)
 
-# 9. Class variable (0 or 1)
+9. Class variable (0 or 1)
 
 
 Open Weka and click the Explorer button. 
